@@ -1,0 +1,6 @@
+2025-04-17 14:11:23,547 - INFO - 发送 GET 请求到 http://test-mobile-api.buscari.com/buscari/user/logout
+2025-04-17 14:11:23,548 - INFO - 请求头: {'User-Agent': 'okhttp/4.10.0', 'Host': 'test-mobile-api.buscari.com', 'sysVer': 'android_15_Redmi_AQ3A.240829.003', 'model': 'zorn_24117RK2CC', 'netType': '0', 'zone': 'GMT+08:00', 'appLanguage': 'zh_CN', 'mobileId': '7baf80be3202c511', 'buildCode': '26', 'channel': 'android_buscari', 'platformId': '4', 'system': 'android_15_Redmi_AQ3A.240829.003', 'deviceModel': 'zorn_24117RK2CC', 'netStatus': '0', 'timezone': 'GMT+08:00', 'lang': 'zh_CN', 'deviceId': '7baf80be3202c511', 'versionCode': '26', 'clientType': 'android_buscari', 'Connection': 'keep-alive', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'curTime': '1744870282794', 'signVal': '448b5e559f06906476f373581184f766', 'aKey': 'kBbQ3wrfJf7O2OC5Zz8rKv9OGOG38f8ykVO4fskgfjMaBWd/VRim/uXQS9E28coSRpHQRJm3mYN8rAj2kUVOii0klDvayUxBi/16KoCKa0qu3U0dJy6yikrW+WYJ/vMEqeY7OVsHOxIiV+5Np4h/5eWH2KlqBJTdLcKzTNgOLwM='}
+2025-04-17 14:11:23,548 - INFO - 请求参数: {}
+2025-04-17 14:11:23,548 - INFO - 请求体: None
+2025-04-17 14:11:23,982 - INFO - 响应状态码: 200
+2025-04-17 14:11:23,982 - INFO - 响应内容: {'failure': True, 'success': False, 'code': '-10003', 'msg': 'login expire'}

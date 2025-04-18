@@ -1,0 +1,6 @@
+2025-04-17 16:05:22,459 - INFO - 发送 POST 请求到 http://test-mobile-api.buscari.com/buscari/user/email/signin
+2025-04-17 16:05:22,467 - INFO - 请求头: {'User-Agent': 'okhttp/4.10.0', 'Host': 'test-mobile-api.buscari.com', 'sysVer': 'android_15_Redmi_AQ3A.240829.003', 'model': 'zorn_24117RK2CC', 'netType': '0', 'zone': 'GMT+08:00', 'appLanguage': 'zh_CN', 'mobileId': '7baf80be3202c511', 'buildCode': '26', 'channel': 'android_buscari', 'platformId': '4', 'system': 'android_15_Redmi_AQ3A.240829.003', 'deviceModel': 'zorn_24117RK2CC', 'netStatus': '0', 'timezone': 'GMT+08:00', 'lang': 'zh_CN', 'deviceId': '7baf80be3202c511', 'versionCode': '26', 'clientType': 'android_buscari', 'Connection': 'keep-alive', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'curTime': '1744877121545', 'signVal': '0334f7d85127a5ea8b19d3dcd45ccaba', 'aKey': 'aX5AhOBfa4ZXhga4NT73u/MqRCYR1O/mbRTKygSdf7n3DdyKsyGFixOUo5/E2LEWXm+UZQIdASeUH4oiNBEOMbdHZBEsO18wtbZaIpGKsmUcPxJLTtJekvj9iFf8iiDQo9jp2QV7Vpr90lJD4bJW7pV0euQKjzzI5usr9h8z9p4='}
+2025-04-17 16:05:22,468 - INFO - 请求参数: None
+2025-04-17 16:05:22,468 - INFO - 请求体: {'email': '361884499@qq.com', 'password': 'index3618844991'}
+2025-04-17 16:05:23,078 - INFO - 响应状态码: 200
+2025-04-17 16:05:23,079 - INFO - 响应内容: {'extMap': None, 'code': '-40007', 'msg': '密码错误', 'data': None}

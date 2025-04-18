@@ -1,0 +1,40 @@
+# config/config.yaml
+protocol:
+  dev: ""
+  test: "http://test-"
+  prod: "http://"
+
+channel:
+  ios: "mobile-api.otv.cc"
+  android: "mobile-api.buscari.com"
+# 配置headers
+headers:
+  common:
+    User-Agent: "okhttp/4.10.0"
+    Host: "test-mobile-api.buscari.com"
+    sysVer: "android_15_Redmi_AQ3A.240829.003"
+    model: "zorn_24117RK2CC"
+    netType: "0"
+    zone: "GMT+08:00"
+    appLanguage: "zh_CN"
+    mobileId: "7baf80be3202c511"
+    buildCode: "26"
+    channel: "android_buscari"
+    platformId: "4"
+    system: "android_15_Redmi_AQ3A.240829.003"
+    deviceModel: "zorn_24117RK2CC"
+    netStatus: "0"
+    timezone: "GMT+08:00"
+    lang: "zh_CN"
+    deviceId: "7baf80be3202c511"
+    versionCode: "26"
+    clientType: "android_buscari"
+    Connection: "keep-alive"
+    Accept-Encoding: "gzip, deflate, br"
+    Accept: "*/*"
+
+
+
+
+
+    

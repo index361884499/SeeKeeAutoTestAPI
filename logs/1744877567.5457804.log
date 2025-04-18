@@ -1,0 +1,6 @@
+2025-04-17 16:12:48,040 - INFO - 发送 POST 请求到 http://test-mobile-api.buscari.com/buscari/user/email/signin
+2025-04-17 16:12:48,041 - INFO - 请求头: {'User-Agent': 'okhttp/4.10.0', 'Host': 'test-mobile-api.buscari.com', 'sysVer': 'android_15_Redmi_AQ3A.240829.003', 'model': 'zorn_24117RK2CC', 'netType': '0', 'zone': 'GMT+08:00', 'appLanguage': 'zh_CN', 'mobileId': '7baf80be3202c511', 'buildCode': '26', 'channel': 'android_buscari', 'platformId': '4', 'system': 'android_15_Redmi_AQ3A.240829.003', 'deviceModel': 'zorn_24117RK2CC', 'netStatus': '0', 'timezone': 'GMT+08:00', 'lang': 'zh_CN', 'deviceId': '7baf80be3202c511', 'versionCode': '26', 'clientType': 'android_buscari', 'Connection': 'keep-alive', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'curTime': '1744877567739', 'signVal': '13222acfc5c7e48feff0a9ca5cd1f29e', 'aKey': 'ERT4vYLzc9xnzY27sAob6Alpn0awS9I5AHECpSRyOmYkxcYADefHt2HqSBxqs/HPR8OczVoDhXmzcrIVnkK4rqyGJRiUdpUZU9W3a2dXzw37bsxqQngiH55nbPFHo4fKbc4Rob3NulBo1l0YzhWwdTK+39PM/pfSxNOKu5VRqxY='}
+2025-04-17 16:12:48,041 - INFO - 请求参数: None
+2025-04-17 16:12:48,041 - INFO - 请求体: {'email': '361884499@qq.com', 'password': 'index3618844991'}
+2025-04-17 16:12:48,619 - INFO - 响应状态码: 200
+2025-04-17 16:12:48,619 - INFO - 响应内容: {'extMap': None, 'code': '-40008', 'msg': '密码连续输入错误3次，请修改密码', 'data': None}

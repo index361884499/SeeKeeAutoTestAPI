@@ -1,0 +1,6 @@
+2025-04-14 13:53:38,968 - INFO - 发送 GET 请求到 http://test-mobile-api.buscari.com/quan/app/content/recommend/discover
+2025-04-14 13:53:38,969 - INFO - 请求头: {'Content-Type': 'application/json', 'User-Agent': 'okhttp/4.10.0', 'netType': '0', 'appLanguage': 'zh_CN', 'channel': 'android_buscari', 'buildCode': '26', 'curTime': '1744610018168', 'signVal': '84148abd54ab1376e133508b83d00590', 'aKey': 'IyvCAYRcqtKUlfRThWqS/HH0ayvoi17EnuC2LZT0S4sXmkL0MgsGYjbRf70Dda1/RCX2xmHJEclbXn+lhrWPszGaPrdCZDLSSi0xoegb8TBdq3ct7b/uwTap4ZzrCTMJ7U6xmqMZ2uVIsL7IJXhziJrq2aYjbnuD090IpgHNl1A=', 'ustp': 'rivv8whf0kvh5rsm'}
+2025-04-14 13:53:38,969 - INFO - 请求参数: None
+2025-04-14 13:53:38,969 - INFO - 请求体: None
+2025-04-14 13:53:40,289 - INFO - 响应状态码: 403
+2025-04-14 13:53:40,290 - INFO - 响应内容: {'failure': True, 'success': False, 'code': '-10002', 'msg': 'sign error!'}

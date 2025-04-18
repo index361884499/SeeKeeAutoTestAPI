@@ -1,0 +1,6 @@
+2025-04-15 18:46:59,872 - INFO - 发送 GET 请求到 http://test-mobile-api.buscari.com/quan/app/content/recommend/discover
+2025-04-15 18:46:59,873 - INFO - 请求头: {'User-Agent': 'okhttp/4.10.0', 'Host': 'test-mobile-api.buscari.com', 'sysVer': 'android_15_Redmi_AQ3A.240829.003', 'model': 'zorn_24117RK2CC', 'netType': '0', 'zone': 'GMT+08:00', 'appLanguage': 'zh_CN', 'mobileId': '7baf80be3202c511', 'buildCode': '26', 'channel': 'android_buscari', 'platformId': '4', 'system': 'android_15_Redmi_AQ3A.240829.003', 'deviceModel': 'zorn_24117RK2CC', 'netStatus': '0', 'timezone': 'GMT+08:00', 'lang': 'zh_CN', 'deviceId': '7baf80be3202c511', 'versionCode': '26', 'clientType': 'android_buscari', 'Connection': 'keep-alive', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': '*/*', 'curTime': '1744714019125', 'signVal': '93764b5981750fe7dfc5975704e201fd', 'aKey': 'RsryvnYpPmLe1LVfIfdgkwKMl41HvRlQ1GvD8sCktGJgXs76uxUcKih0mS4vyFUqXzJoJkwsp8CwvbclLgffauQ3u1DViKjvfYldWN1gIz0xdhL1Y/af3I1tUZA8+7nik2NzyZUl6Az9p/tGR1dTwXdlTwrrOGvIAhp1kSwE5Ws=', 'ustp': 'ta2pytz34x7vb92b'}
+2025-04-15 18:46:59,873 - INFO - 请求参数: None
+2025-04-15 18:46:59,873 - INFO - 请求体: None
+2025-04-15 18:47:01,119 - INFO - 响应状态码: 403
+2025-04-15 18:47:01,119 - INFO - 响应内容: {'failure': True, 'success': False, 'code': '-10002', 'msg': 'sign error!'}

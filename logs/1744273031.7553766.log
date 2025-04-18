@@ -1,0 +1,6 @@
+2025-04-10 16:17:11,870 - INFO - 发送 GET 请求到 http://test-mobile-api.buscari.com/quan/app/content/recommend/discover
+2025-04-10 16:17:11,871 - INFO - 请求头: {'Content-Type': 'application/json', 'User-Agent': 'okhttp/4.10.0', 'ustp': 'e8ab1bbdc916662d24055be7b2686257f8f7bef0c4da7a0726595948756cdba3', 'aKey': 'F2XZGNDOZPP11RSGcRGLUgs98nwgNW5TNKrgw68J+XyB2MrlGke7G8lMbqek5cRzVSk5IS5Iq3ni2fXU/fzWg90qcQuufStUeMfZa+CwdnHsZLvE1zeWz/FuRw0kWMkpDrrVU5vUKLSkqyahmiHitLv5oc6yp/u+TTR30s+LGDo=', 'signVal': '6f62396a7b2a1fa117e02156bf0d89ab', 'netType': '0', 'appLanguage': 'zh_CN', 'channel': 'android_buscari', 'buildCode': '26', 'curTime': '1744273031.870377'}
+2025-04-10 16:17:11,871 - INFO - 请求参数: None
+2025-04-10 16:17:11,871 - INFO - 请求体: None
+2025-04-10 16:17:12,386 - INFO - 响应状态码: 403
+2025-04-10 16:17:12,386 - INFO - 响应内容: {'failure': True, 'success': False, 'code': '-10002', 'msg': 'timestamp parse error.'}
